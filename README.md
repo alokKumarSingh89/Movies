@@ -25,3 +25,5 @@ npm test
 
 #Details
 This app build using vuejs(2.*) with vuetify and firebase authentication
+# Movies
+Movies List with firebase authentication in vueJS and Vuetify
